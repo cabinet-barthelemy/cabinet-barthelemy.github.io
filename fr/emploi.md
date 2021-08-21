@@ -7,6 +7,10 @@ key: job
 
 # Emploi
 
-Nous n'avons pas de poste ouvert pour le moment
+## Un·e hygiéniste dentaire
 
-*Dernière mise à jour le 24 juin 2021*
+* Taux d’activité: 80%
+* Entrée en fonction à convenir
+* Merci d’envoyer votre dossier complet par courriel à [mail@dentistebarthelemy.ch](mailto:mail@dentistebarthelemy.ch)
+
+*Dernière mise à jour le 21 août 2021*

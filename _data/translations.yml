@@ -1,6 +1,6 @@
 fr:
   vocab:
-    headline: Dentiste à Nyon
+    headline: Dentiste à moins d’une minute de la gare de Nyon
     keywords: Dentiste, Nyon
     opening_hours: Heures d'ouverture
     daynames: ['Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi']
@@ -34,7 +34,7 @@ fr:
     emergency: Pour les urgences en dehors des jours ouvrables, merci d'appeler la centrale des médecins au 0848 133 133
 en:
   vocab:
-    headline: Dentiste in Nyon
+    headline: Dentiste a minute away from the Nyon train station
     keywords: Dentiste, Nyon
     opening_hours: Opening hours
     daynames: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']

@@ -1,16 +1,22 @@
 {% assign t = site.data.translations[page.lang] %}
 
+{% if page.page_title %}
+  {% assign page_title = page.page_title %}
+{% else %}
+  {% assign page_title = page.title %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
   <head>
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <title>{{ page_title }} - {{ site.title }}</title>
     <meta name="description" content="{{ t.vocab.headline }}">
     <meta name="keywords" content="{{ t.vocab.keywords }}">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
+    <meta property="og:title" content="{{ page_title }} - {{ site.title }}" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{{ site.title }} - {{ page.title }}">
     <meta property="og:url" content="{{ page.url | prepend: site.url }}" />

@@ -46,8 +46,8 @@
       Graduated at the faculty of Dentistry, Geneva 1999
       Languages : French - English - German and Italian
 
-- name: Jennifer Le
-  key: jennifer
+- name: Serena Zilli
+  key: serena
   description:
     fr: Hygiéniste dentaire
     en: Dental Hygienist
@@ -70,6 +70,18 @@
     fr: Assistante dentaire
     en: Dental assistant
 
+- name: Shqipe Kabashi
+  key: shqipe
+  description:
+    fr: Assistante dentaire
+    en: Dental assistant
+
+- name: Fatima Abakil
+  key: fatima
+  description:
+    fr: Assistante dentaire
+    en: Dental assistant
+
 - name: Alisa Yartseva
   key: alisa
   description:
@@ -77,7 +89,7 @@
     en: Apprentice
 
 - name: Jessica Ugo
-  key: jessica_ugo
+  key: jessica
   description:
     fr: Apprentie
     en: Apprentice

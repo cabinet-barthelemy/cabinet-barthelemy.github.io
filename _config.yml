@@ -3,7 +3,7 @@ title: Cabinet Dentaire Barthélémy
 # if you want to preview the website under name.github.io/mysite, you have to
 # change baseurl to /mysite
 baseurl: ""
-url: "" # the base hostname & protocol for your site
+url: "https://dentistebarthelemy.ch" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

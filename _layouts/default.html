@@ -10,16 +10,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{{ site.title }} - {{ page.title }}">
-    <meta property="og:url" content="{{ page.url | prepend: site.baseurl }}" />
-    <meta property="og:image" content="{{ "/assets/images/logo-big.png" | prepend: site.baseurl }}" />
+    <meta property="og:url" content="{{ page.url | prepend: site.url }}" />
+    <meta property="og:image" content="{{ '/assets/images/logo-big.png' | prepend: site.url }}" />
     <meta property="og:locale" content="{{ page.lang }}">
 
     <link href="https://fonts.googleapis.com/css?family=Nunito:300,400" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "/assets/main.css" | prepend: site.baseurl }}">
-    <link rel="icon" href="{{ "/assets/images/icons/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ '/assets/main.css' | prepend: site.url }}">
+    <link rel="icon" href="{{ '/assets/images/icons/favicon.ico' | prepend: site.url }}" type="image/x-icon">
     <link rel="canonical" href="{{ site.url }}" />
   </head>
 
@@ -42,6 +42,6 @@
       ga('create', 'UA-48249284-1', 'dentistebarthelemy.ch');
       ga('send', 'pageview');
     </script>
-    <script src="{{ "/assets/javascripts/application.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ '/assets/javascripts/application.js' | prepend: site.url }}"></script>
   </body>
 </html>

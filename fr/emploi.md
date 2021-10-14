@@ -7,16 +7,6 @@ key: job
 
 # Emploi
 
-## Un·e hygiéniste dentaire
+Nous n'avons pas de poste ouvert pour le moment
 
-* Taux d’activité: 80%
-* Entrée en fonction à convenir
-
-## Un·e assistante dentaire
-
-* Taux d’activité: 80-100%
-* Entrée en fonction à convenir
-
-Merci d’envoyer votre dossier complet par courriel à [mail@dentistebarthelemy.ch](mailto:mail@dentistebarthelemy.ch)
-
-*Dernière mise à jour le 5 octobre 2021*
+*Dernière mise à jour le 14 octobre 2021*

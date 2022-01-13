@@ -13,11 +13,13 @@ key: costs
 
 ## Quelques exemples de tarifs appliqués
 
- * RDV Hygiéniste sans radios de contrôle : environ CHF 145
- * RDV Hygiéniste avec radios de contrôle : environ CHF 170
- * Visite de contrôle chez le Médecin-Dentiste : entre CHF 125 et CHF 170
- * Pose d'un implant et de sa couronne : entre CHF 2600 et CHF 3200
- * Gouttières et produit de blanchiment : environ CHF 500
- * Blanchiment au fauteuil (lampe zoom): environ CHF 750
- * Onlay composite : environ CHF 1100
- * Couronne céramique : environ CHF 1600
+| Soins | Tarif |
+| ---- | ------ |
+| RDV Hygiéniste sans radios de contrôle | Forfait CHF 160.- adulte et CHF 80.- enfants < 10ans |
+| RDV Hygiéniste avec radios de contrôle | environ CHF 200.- |
+| Visite de contrôle chez le Médecin-Dentiste | entre CHF 125.- et CHF 170.- |
+| Pose d'un implant et de sa couronne | entre CHF 2600.- et CHF 3200.- |
+| Gouttières et produit de blanchiment | environ CHF 500.- |
+| Blanchiment au fauteuil (lampe zoom) | environ CHF 750.- |
+| Onlay composite | environ CHF 1100.- |
+| Couronne céramique | environ CHF 1600.- |

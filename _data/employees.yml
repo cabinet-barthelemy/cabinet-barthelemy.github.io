@@ -46,7 +46,7 @@
       Graduated at the faculty of Dentistry, Geneva 1999
       Languages : French - English - German and Italian
 
-- name: Serena Zilli
+- name: Serena Zilli Nogueira
   key: serena
   description:
     fr: Hygiéniste dentaire
@@ -54,6 +54,12 @@
 
 - name: Brigitte Neukomm
   key: brigitte
+  description:
+    fr: Hygiéniste dentaire
+    en: Dental Hygienist
+
+- name: Malika Hafici
+  key: malika
   description:
     fr: Hygiéniste dentaire
     en: Dental Hygienist
@@ -76,8 +82,14 @@
     fr: Assistante dentaire
     en: Dental assistant
 
-- name: Fatima Abakil
-  key: fatima
+- name: Promise Emissan
+  key: promise
+  description:
+    fr: Assistante dentaire
+    en: Dental assistant
+
+- name: Océane Delapierre
+  key: oceane
   description:
     fr: Assistante dentaire
     en: Dental assistant

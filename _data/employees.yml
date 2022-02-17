@@ -82,6 +82,12 @@
     fr: Assistante dentaire
     en: Dental assistant
 
+- name: Jessica Oliveira
+  key: jessica_oliveira
+  description:
+    fr: Assistante dentaire
+    en: Dental assistant
+
 - name: Promise Emissan
   key: promise
   description:

@@ -7,6 +7,13 @@ key: job
 
 # Emploi
 
-Nous n'avons pas de poste ouvert pour le moment
+## Hygiéniste dentaire diplômé·e
 
-*Dernière mise à jour le 14 octobre 2021*
+Taux d’activité et dates d’entrée en fonction à convenir. Matériel de pointe à disposition (air-flow dernière génération).
+Bonnes conditions salariales.
+
+Nous nous réjouissons de recevoir votre candidature.
+
+Merci d’envoyer votre dossier complet par courriel à [mail@dentistebarthelemy.ch](mailto:mail@dentistebarthelemy.ch)
+
+*Dernière mise à jour le 23 mars 2022*

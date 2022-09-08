@@ -46,8 +46,8 @@
       Graduated at the faculty of Dentistry, Geneva 1999
       Languages : French - English - German and Italian
 
-- name: Serena Zilli Nogueira
-  key: serena
+- name: Chantal Gachet
+  key: chantal
   description:
     fr: Hygiéniste dentaire
     en: Dental Hygienist
@@ -78,12 +78,6 @@
 
 - name: Jessica Oliveira
   key: jessica_oliveira
-  description:
-    fr: Assistante dentaire
-    en: Dental assistant
-
-- name: Promise Emissan
-  key: promise
   description:
     fr: Assistante dentaire
     en: Dental assistant

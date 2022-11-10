@@ -1,0 +1,58 @@
+en:
+  - name: Appointment with a hygienist without x-ray examination
+    cost: |
+      package normal prices CHF 160.- (> 16 years)
+      Medium CHF 120.- (10 - 16 years)
+      Small CHF 80.- (< 10 years)
+
+  - name: Check up with a dentist
+    cost: approx. CHF 125.- to 170.-
+
+  - name: Fitting an implant and crown
+    cost: between CHF 2600.- and CHF 3200.-
+
+  - name: In office bleaching (zoom lamp)
+    cost: approx. CHF 500.-
+
+  - name: Whitening product and tray
+    cost: approx. CHF 750.-
+
+  - name: Composite onlay
+    cost: approx. CHF 1100.-
+
+  - name: Ceramic crown
+    cost: approx. CHF 1600.-
+
+fr:
+  - name: RDV Hygiéniste sans radios de contrôle
+    cost: |
+      Forfait RDV normal CHF 160.- (>16 ans)
+      Moyen CHF 120.- (10 – 16 ans)
+      Petit CHF 80.- (< 10 ans)
+
+  - name: Visite de contrôle chez le Médecin-Dentiste
+    cost: entre CHF 125.- et CHF 170.-
+
+  - name: Pose d'un implant et de sa couronne
+    cost: entre CHF 2600.- et CHF 3200.-
+
+  - name: Gouttières et produit de blanchiment
+    cost: environ CHF 500.-
+
+  - name: Blanchiment au fauteuil (lampe zoom)
+    cost: environ CHF 750.-
+
+  - name: Onlay composite
+    cost: environ CHF 1100.-
+
+  - name: Couronne céramique
+    cost: environ CHF 1600.-
+
+  - name: Facette dentaire céramique
+    cost: environ CHF 1500.-
+
+  - name: Gouttière Bruxisme
+    cost: environ CHF 350.-
+
+  - name: Gouttière ronflement/apnée du sommeil
+    cost: environ CHF 1300.- ( selon tarif LAMAL)

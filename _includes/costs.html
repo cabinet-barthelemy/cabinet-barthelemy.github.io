@@ -1,0 +1,8 @@
+<table>
+{% for example in site.data.costs[page.lang] %}
+  <tr>
+    <td>{{ example.name }}</td>
+    <td>{{ example.cost | newline_to_br }}</td>
+  </tr>
+{% endfor %}
+</table>

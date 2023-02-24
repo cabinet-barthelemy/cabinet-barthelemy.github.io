@@ -1,7 +1,7 @@
 en:
   - name: Appointment with a hygienist without x-ray examination
     cost: |
-      package normal prices CHF 160.- (> 16 years)
+      package normal prices CHF 150.- (> 16 years)
       Medium CHF 120.- (10 - 16 years)
       Small CHF 80.- (< 10 years)
 
@@ -26,7 +26,7 @@ en:
 fr:
   - name: RDV Hygiéniste sans radios de contrôle
     cost: |
-      Forfait RDV normal CHF 160.- (>16 ans)
+      Forfait RDV normal CHF 150.- (>16 ans)
       Moyen CHF 120.- (10 – 16 ans)
       Petit CHF 80.- (< 10 ans)
 

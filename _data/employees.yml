@@ -52,18 +52,6 @@
     fr: Hygiéniste dentaire
     en: Dental Hygienist
 
-- name: Brigitte Neukomm
-  key: brigitte
-  description:
-    fr: Hygiéniste dentaire
-    en: Dental Hygienist
-
-- name: Anna Rufenacht
-  key: anna
-  description:
-    fr: Hygiéniste dentaire
-    en: Dental Hygienist
-
 - name: Carla Celerin
   key: carla
   description:
@@ -91,14 +79,8 @@
 - name: Océane Delapierre
   key: oceane
   description:
-    fr: Assistante dentaire
-    en: Dental assistant
-
-- name: Alisa Yartseva
-  key: alisa
-  description:
-    fr: Apprentie
-    en: Apprentice
+    fr: Stagière hygiéniste dentaire
+    en: Dental hygienist trainee
 
 - name: Jessica Ugo
   key: jessica

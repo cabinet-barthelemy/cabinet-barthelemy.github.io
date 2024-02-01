@@ -84,7 +84,8 @@
 
 - name: Christine D'Ascanio
   key: christine
-    fr: Assistante en prophylaxie ( Détartrage)
+  description:
+    fr: Assistante en prophylaxie (Détartrage)
     en: Dental assistant
 
 - name: Océane Delapierre

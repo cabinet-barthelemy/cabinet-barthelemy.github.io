@@ -82,6 +82,11 @@
     fr: Assistante dentaire
     en: Dental assistant
 
+- name: Christine D'Ascanio
+  key: christine
+    fr: Assistante en prophylaxie ( Détartrage)
+    en: Dental assistant
+
 - name: Océane Delapierre
   key: oceane
   description:
@@ -93,3 +98,9 @@
   description:
     fr: Apprentie
     en: Apprentice
+
+- name: Pauline Deertz
+  key: pauline
+  description:
+    fr: Apprentie assistante dentaire
+    en: Dental hygienist trainee

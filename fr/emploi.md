@@ -7,6 +7,12 @@ key: job
 
 # Emploi
 
-Nous n'avons pas de poste ouvert pour le moment.
+## Assistante dentaire diplômée
 
-*Dernière mise à jour le 22 novembre 2023*
+Taux d’activité et dates d’entrée en fonction à convenir.
+
+Nous nous réjouissons de recevoir votre candidature.
+
+Merci d’envoyer votre dossier complet par courriel à [mail@dentistebarthelemy.ch](mailto:mail@dentistebarthelemy.ch)
+
+*Dernière mise à jour le 7 avril 2024*

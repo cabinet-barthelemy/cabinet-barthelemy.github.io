@@ -9,10 +9,6 @@ key: job
 
 ## Assistante dentaire diplômée
 
-Taux d’activité et dates d’entrée en fonction à convenir.
+Nous n'avons pas de poste ouvert pour le moment.
 
-Nous nous réjouissons de recevoir votre candidature.
-
-Merci d’envoyer votre dossier complet par courriel à [mail@dentistebarthelemy.ch](mailto:mail@dentistebarthelemy.ch)
-
-*Dernière mise à jour le 7 avril 2024*
+*Dernière mise à jour le 1er mai 2024*

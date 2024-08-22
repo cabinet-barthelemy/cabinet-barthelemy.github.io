@@ -52,6 +52,12 @@
     fr: Hygiéniste dentaire
     en: Dental Hygienist
 
+- name: Océane Delapierre
+  key: oceane
+  description:
+    fr: Hygiéniste dentaire
+    en: Dental hygienist
+
 - name: Carla Celerin
   key: carla
   description:
@@ -81,12 +87,6 @@
   description:
     fr: Assistante en prophylaxie (Détartrage)
     en: Dental assistant
-
-- name: Océane Delapierre
-  key: oceane
-  description:
-    fr: Stagiaire hygiéniste dentaire
-    en: Dental hygienist trainee
 
 - name: Pauline Alefsen de Boisredon d’Assier
   key: pauline

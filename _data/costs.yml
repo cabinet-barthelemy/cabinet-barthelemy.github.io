@@ -2,8 +2,8 @@ en:
   - name: Appointment with a hygienist without x-ray examination
     cost: |
       package normal prices CHF 160.- (> 16 years)
-      Medium CHF 120.- (10 - 16 years)
-      Small CHF 80.- (< 10 years)
+      Medium CHF 128.- (10 - 16 years)
+      Small CHF 85.- (< 10 years)
 
   - name: Check up with a dentist
     cost: approx. CHF 125.- to 170.-
@@ -27,8 +27,8 @@ fr:
   - name: RDV Hygiéniste sans radios de contrôle
     cost: |
       Forfait RDV normal CHF 160.- (>16 ans)
-      Moyen CHF 120.- (10 – 16 ans)
-      Petit CHF 80.- (< 10 ans)
+      Moyen CHF 128.- (10 – 16 ans)
+      Petit CHF 85.- (< 10 ans)
 
   - name: Visite de contrôle chez le Médecin-Dentiste
     cost: entre CHF 125.- et CHF 170.-

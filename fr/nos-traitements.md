@@ -29,4 +29,4 @@ Les prestations offertes par notre cabinet dentaire s’articulent autour d’un
 
 Toutes nos salles de traitement sont équipées avec les dernières avancées technologiques ainsi que de la radiologie numérique.
 
-Avant chaque traitement complexe, un devis complet vous sera remis. Des arrangements de paiement sont possibles avec la caisse pour médecins-dentistes.
+Sur demande un devis complet vous sera remis. Des plans de paiement peuvent être convenu.

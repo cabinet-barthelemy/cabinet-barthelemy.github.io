@@ -11,7 +11,11 @@
       F. {{ site.settings.fax }}
     </div>
 
-    <div class="mrgv+">
+    <div class="mrgv" >
+      <a href="https://www.google.ch/maps/place/Rue+Juste+Olivier+8,+1260+Nyon/@46.3838521,6.2366358,17z/data=!3m1!4b1!4m2!3m1!1s0x478c42d818c5f593:0x1d2c0e5634de099?hl=en" class="btn btn--md btn--primary">{{ t.vocab.view_gmap }}</a>
+    </div>
+
+    <div class="mrgv">
       {{ t.contact.emergency }}
     </div>
   </div>
@@ -47,10 +51,3 @@
   </div>
 </div>
 
-<div class="map-container">
-  <div class="map" data-lat="{{ site.settings.gps.lat }}" data-lng="{{ site.settings.gps.lng }}"></div>
-</div>
-
-<div class="mrgv hidden-md-up">
-  <a href="https://www.google.ch/maps/place/Rue+Juste+Olivier+8,+1260+Nyon/@46.3838521,6.2366358,17z/data=!3m1!4b1!4m2!3m1!1s0x478c42d818c5f593:0x1d2c0e5634de099?hl=en" class="btn btn--md btn--block btn--primary">{{ t.vocab.view_gmap }}</a>
-</div>
